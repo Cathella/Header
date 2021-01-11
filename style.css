@@ -1,0 +1,17 @@
+* {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+a {
+  text-decoration: underline;
+  color: #212529;
+}
+
+.bg-black {
+  background: #212529;
+}
