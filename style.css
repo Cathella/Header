@@ -22,3 +22,11 @@ a {
   text-decoration: none;
   /* border: 1px solid #212529; */
 }
+
+nav li {
+  padding: 0 1em;
+}
+
+nav a {
+  text-decoration: none;
+}
