@@ -9,7 +9,6 @@ h1 {
 
 a {
   text-decoration: underline;
-  /* color: #212529; */
 }
 
 .bg-black {
@@ -20,7 +19,6 @@ a {
   border-radius: 3em;
   padding: .8em 2.2em;
   text-decoration: none;
-  /* border: 1px solid #212529; */
 }
 
 nav li {
